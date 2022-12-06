@@ -1,0 +1,142 @@
+#root {
+  margin: 0px;
+  padding: 0px;
+  border: 0;
+}
+
+.App {
+  text-align: center;
+  /* display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly; */
+  margin: 0px;
+  padding: 0px;
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+  grid-template-rows: 1fr;
+  gap: 8px;
+  background-color: rgba(240, 128, 128, 0.116);
+  /* font-family: ; */
+}
+
+.desc {
+  /* max-width: fit-content; */
+  display: block;
+  /* max-width: calc(50%); */
+  /* margin-left: calc(25%);
+  margin-right: calc(25%); */
+  justify-content: center;
+  font-style: italic;
+  text-align: center;
+}
+
+.header {
+  margin: 0px;
+  padding: 0px;
+  background-color: lightcoral;
+}
+
+.coverart-title {
+  vertical-align: middle;
+}
+
+.coverart-sum {
+  display: flex;
+  justify-content: space-around;
+  /* flex-direction: column;
+  justify-content: space-around;
+  vertical-align: middle; */
+}
+
+.ratings {
+
+  line-height: 14px;
+  display: table-cell;
+  vertical-align: middle;
+  /* text-align: left; */
+
+}
+
+.watchlist {
+   text-align: left;
+}
+
+.show-component {
+  display: block;
+  /* margin: 10rem; */
+  margin-top: 1%;
+  margin-bottom: 1%;
+  /* width: 40%; */
+  /* border-style: double;
+  border-width: thick; */
+  background-color: white;
+  border-radius: 20px;
+  border-color: lightcoral;
+  box-shadow: 0px 5px 10px lightcoral;
+}
+
+.left-side {
+  /* flex: 1; */
+  display: block;
+  justify-self: center;
+  border-radius: 20px;
+  box-shadow: 0px 5px 10px gray;
+  background-color: white;
+  height: fit-content;
+  padding: 5%;
+  /* margin: 10rem; */
+  margin-right: 1%;
+
+}
+
+.right-side {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  /* margin: 15px; */
+  gap: 10px;
+  /* flex: 3; */
+}
+
+.button-pos {
+
+}
+
+
+.add {
+  background-color: #bef7c0; /* Green */
+  border: none;
+
+  padding: 15px 32px;
+
+  font-size: 16px;
+  width: 80%;
+}
+
+.remove {
+  background-color: gainsboro; /* Green */
+  border: none;
+
+  padding: 15px 32px;
+
+  font-size: 16px;
+  width: 80%;
+}
+
+button:hover {
+  opacity: 50%;
+}
+
+button:active {
+  color: white;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

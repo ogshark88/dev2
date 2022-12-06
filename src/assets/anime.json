@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Chainsaw Man",
+    "description": "Denji is robbed of a normal teenage life, left with nothing but his deadbeat father's overwhelming debt. His only companion is his pet, the chainsaw devil Pochita, with whom he slays devils for money that inevitably ends up in the yakuza's pockets. All Denji can do is dream of a good, simple life: one with delicious food and a beautiful girlfriend by his side. But an act of greedy betrayal by the yakuza leads to Denji's brutal, untimely death, crushing all hope of him ever achieving happiness. Remarkably, an old contract allows Pochita to merge with the deceased Denji and bestow devil powers on him, changing him into a hybrid able to transform his body parts into chainsaws. Because Denji's new abilities pose a significant risk to society, the Public Safety Bureau's elite devil hunter Makima takes him in, letting him live as long as he obeys her command. Guided by the promise of a content life alongside an attractive woman, Denji devotes everything and fights with all his might to make his naive dreams a reality.",
+    "rating": 8.84,
+    "status": "Currently Airing",
+    "genres": "Action, Fantasy",
+    "image": "./pics/chainsaw.jpeg"
+  },
+  {
+    "name": "Hunter x Hunter (2011)",
+    "description": "Hunters devote themselves to accomplishing hazardous tasks, all from traversing the world's uncharted territories to locating rare items and monsters. Before becoming a Hunter, one must pass the Hunter Examination—a high-risk selection process in which most applicants end up handicapped or worse, deceased. Ambitious participants who challenge the notorious exam carry their own reason. What drives 12-year-old Gon Freecss is finding Ging, his father and a Hunter himself. Believing that he will meet his father by becoming a Hunter, Gon takes the first step to walk the same path. During the Hunter Examination, Gon befriends the medical student Leorio Paladiknight, the vindictive Kurapika, and ex-assassin Killua Zoldyck. While their motives vastly differ from each other, they band together for a common goal and begin to venture into a perilous world.",
+    "rating": 9.04,
+    "status": "Finished",
+    "genres": "Action, Adventure, Fantasy",
+    "image": "./pics/hxh.jpeg"
+  },
+  {
+    "name": "Cowboy Bepop",
+    "description": "Crime is timeless. By the year 2071, humanity has expanded across the galaxy, filling the surface of other planets with settlements like those on Earth. These new societies are plagued by murder, drug use, and theft, and intergalactic outlaws are hunted by a growing number of tough bounty hunters. Spike Spiegel and Jet Black pursue criminals throughout space to make a humble living. Beneath his goofy and aloof demeanor, Spike is haunted by the weight of his violent past. Meanwhile, Jet manages his own troubled memories while taking care of Spike and the Bebop, their ship. The duo is joined by the beautiful con artist Faye Valentine, odd child Edward Wong Hau Pepelu Tivrusky IV, and Ein, a bioengineered Welsh Corgi. While developing bonds and working to catch a colorful cast of criminals, the Bebop crew's lives are disrupted by a menace from Spike's past. As a rival's maniacal plot continues to unravel, Spike must choose between life with his newfound family or revenge for his old wounds.",
+    "rating": 8.75,
+    "status": "Finished",
+    "genres": "Action, Sci-Fi",
+    "image": "./pics/cowboy.jpeg"
+  },
+  {
+    "name": "Steins;Gate",
+    "description": "Eccentric scientist Rintarou Okabe has a never-ending thirst for scientific exploration. Together with his ditzy but well-meaning friend Mayuri Shiina and his roommate Itaru Hashida, Rintarou founds the Future Gadget Laboratory in the hopes of creating technological innovations that baffle the human psyche. Despite claims of grandeur, the only notable gadget the trio have created is a microwave that has the mystifying power to turn bananas into green goo. However, when Rintarou decides to attend neuroscientist Kurisu Makise's conference on time travel, he experiences a series of strange events that lead him to believe that there is more to the Phone Microwave gadget than meets the eye. Apparently able to send text messages into the past using the microwave, Rintarou dabbles further with the time machine, attracting the ire and attention of the mysterious organization SERN. Due to the novel discovery, Rintarou and his friends find themselves in an ever-present danger. As he works to mitigate the damage his invention has caused to the timeline, he is not only fighting a battle to save his loved ones, but also one against his degrading sanity.",
+    "rating": 9.08,
+    "status": "Finished",
+    "genres": "Drama, Sci-Fi, Suspense",
+    "image": "./pics/steins.jpeg"
+  },
+  {
+    "name": "Hellsing Ultimate",
+    "description": "There exist creatures of darkness and evil that plague the night, devouring any human unfortunate enough to be caught in their grasp. On the other side is Hellsing, an organization dedicated to destroying these supernatural forces that threaten the very existence of humanity. At its head is Integra Fairbrook Wingates Hellsing, who commands a powerful military and spends her life fighting the undead. Integra's vast army, however, pales in comparison with her ultimate weapon: the vampire Alucard, who works against his own kind as an exterminator for Hellsing. With his new vampire servant, Seras Victoria, at his side, Alucard must battle not only monsters, but all those who stand to oppose Hellsing, be they in the guise of good or evil. In a battle for mankind's survival, Hellsing Ultimate proves that appearances are not all they may seem, and sometimes the greatest weapon can come in the form of one's worst nightmare.",
+    "rating": 8.36,
+    "status": "Finished",
+    "genres": "Action, Horror, Supernatural",
+    "image": "./pics/hellsing.jpg"
+  },
+  {
+    "name": "Tomodachi Game",
+    "description": "High school student Yuuichi Katagiri cherishes his close circle of friends, composed of four classmates: Yutori Kokorogi, Shiho Sawaragi, Makoto Shibe, and Tenji Mikasa. However, when the funds for the upcoming school trip are stolen, the incident causes Shiho and Makoto—who had been tasked with collecting the money—to distance themselves from the rest of their class. Soon after, Yuuichi and his friends are deceived into meeting up and knocked unconscious by unknown assailants. After waking, the group find themselves confined in a white room with controversial figure Manabu-kun, who reveals that one of the five has gathered them together to clear their personal debt of twenty million yen. To pay off the amount, they must participate in a variety of psychological games that will test the true nature of their friendship and humanity. Distressed and isolated from the outside world, Yuuichi and his friends need to cooperate to complete the games. But as their concealed feelings and problematic pasts begin to surface, their seemingly unbreakable bond may soon shatter into irreparable pieces.",
+    "rating": 7.71,
+    "status": "Finished",
+    "genres": "Horror, Psychological",
+    "image": "./pics/Tomo.jpeg"
+  },
+  {
+    "name": "Naruto: Shippuden",
+    "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world. Although Naruto is older and sinister events loom on the horizon, he has changed little in personality—still rambunctious and childish—though he is now far more confident and possesses an even greater determination to protect his friends and home. Come whatever may, Naruto will carry on with the fight for what is important to him, even at the expense of his own body, in the continuation of the saga about the boy who wishes to become Hokage.",
+    "rating": 8.25,
+    "status": "Finished",
+    "genres": "Action, Adventure, Fantasy",
+    "image": "./pics/shippuden.jpeg"
+  },
+  {
+    "name": "Tokyo Revengers",
+    "description": "Takemichi Hanagaki's second year of middle school was the highest point in his life. He had respect, a gang of friends he could count on, and even a girlfriend. But that was twelve years ago. Today, he's a nobody: a washed-up nonentity made fun of by children and always forced to apologize to his younger boss. A sudden news report on the Tokyo Manji Gang's cruel murder of the only girlfriend he ever had alongside her brother only adds insult to injury. Half a second before a train ends his pitiful life for good, Takemichi flashes back to that same day 12 years ago, when he was still dating Hinata Tachibana. After being forced to relive the very same day that began his downward spiral, Takemichi meets Hinata's younger brother. Without thinking, he admits to his seeming death before flashing back to the past. Takemichi urges him to protect his sister before inexplicably returning to the future. Miraculously, he is not dead. Stranger still, the future has changed. It seems as though Takemichi can alter the flow of time. Given the chance to prevent his ex-girlfriend's tragic death at the hands of the Tokyo Manji Gang, Takemichi decides to fly through time to change the course of the future.",
+    "rating": 8.06,
+    "status": "Finished",
+    "genres": "Action, Drama, Supernatural",
+    "image": "./pics/tokyo.jpeg"
+  },
+  {
+    "name": "Fullmetal Alchemist: Brotherhood",
+    "description": "After a horrific alchemy experiment goes wrong in the Elric household, brothers Edward and Alphonse are left in a catastrophic new reality. Ignoring the alchemical principle banning human transmutation, the boys attempted to bring their recently deceased mother back to life. Instead, they suffered brutal personal loss: Alphonse's body disintegrated while Edward lost a leg and then sacrificed an arm to keep Alphonse's soul in the physical realm by binding it to a hulking suit of armor. The brothers are rescued by their neighbor Pinako Rockbell and her granddaughter Winry. Known as a bio-mechanical engineering prodigy, Winry creates prosthetic limbs for Edward by utilizing automail, a tough, versatile metal used in robots and combat armor. After years of training, the Elric brothers set off on a quest to restore their bodies by locating the Philosopher's Stone—a powerful gem that allows an alchemist to defy the traditional laws of Equivalent Exchange. As Edward becomes an infamous alchemist and gains the nickname Fullmetal, the boys' journey embroils them in a growing conspiracy that threatens the fate of the world.",
+    "rating": 9.11,
+    "status": "Finished",
+    "genres": "Action, Adventure, Drama, Fantasy",
+    "image": "./pics/fmab.png"
+  },
+  {
+    "name": "Bleach",
+    "description": "Ichigo Kurosaki is an ordinary high schooler—until his family is attacked by a Hollow, a corrupt spirit that seeks to devour human souls. It is then that he meets a Soul Reaper named Rukia Kuchiki, who gets injured while protecting Ichigo's family from the assailant. To save his family, Ichigo accepts Rukia's offer of taking her powers and becomes a Soul Reaper as a result. However, as Rukia is unable to regain her powers, Ichigo is given the daunting task of hunting down the Hollows that plague their town. However, he is not alone in his fight, as he is later joined by his friends—classmates Orihime Inoue, Yasutora Sado, and Uryuu Ishida—who each have their own unique abilities. As Ichigo and his comrades get used to their new duties and support each other on and off the battlefield, the young Soul Reaper soon learns that the Hollows are not the only real threat to the human world.",
+    "rating": 7.89,
+    "status": "Currently Airing",
+    "genres": "Action, Adventure, Fantasy",
+    "image": "./pics/Bleachanime.png"
+  },
+  {
+    "name": "Megalobox 2: Nomad",
+    "description": "Megalo Box is an advanced form of boxing where competitors wear metal frames called Gear. When the first ever Megalonia tournament took place, Gearless Joe became its champion and known to all as a legendary fighter. However, soon after, he lost an exhibition match against the second champion and vanished from the public eye. Seven years later, Joe now goes by Nomad and keeps a low profile, occasionally fighting in a few underground matches to get by. He is haunted by hallucinations and relies on a set of painkillers to numb his mind. During a match, Joe wins against an opponent, Chief, who purposefully loses for some extra cash from gamblers. Subsequently, Joe discovers that Chief is from a community of immigrants called the Casa. Chief is gradually trying to make enough money to purchase the land where they live illegally. At first, Joe hesitates to get involved, but eventually decides to lend the Casa a helping hand.",
+    "rating": 8.21,
+    "status": "Finished",
+    "genres": "Sci-Fi, Sports",
+    "image": "./pics/megalobox.jpg"
+  },
+  {
+    "name": "One Piece",
+    "description": "Gol D. Roger was known as the Pirate King, the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King. Enter Monkey D. Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffy's reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes—One Piece.",
+    "rating": 8.67,
+    "status": "Currently Airing",
+    "genres": "Action, Adventure, Fantasy",
+    "image": "./pics/onepiece.jpg"
+  },
+  {
+    "name": "Death Note",
+    "description": "Brutal murders, petty thefts, and senseless violence pollute the human world. In contrast, the realm of death gods is a humdrum, unchanging gambling den. The ingenious 17-year-old Japanese student Light Yagami and sadistic god of death Ryuk share one belief: their worlds are rotten. For his own amusement, Ryuk drops his Death Note into the human world. Light stumbles upon it, deeming the first of its rules ridiculous: the human whose name is written in this note shall die. However, the temptation is too great, and Light experiments by writing a felon's name, which disturbingly enacts his first murder. Aware of the terrifying godlike power that has fallen into his hands, Light—under the alias Kira—follows his wicked sense of justice with the ultimate goal of cleansing the world of all evil-doers. The meticulous mastermind detective L is already on his trail, but as Light's brilliance rivals L's, the grand chase for Kira turns into an intense battle of wits that can only end when one of them is dead.",
+    "rating": 8.62,
+    "status": "Finished",
+    "genres": "Supernatural, Suspense",
+    "image": "./pics/deathnote.jpg"
+  },
+  {
+    "name": "86 Part 2",
+    "description": "The disappearance of the Spearhead Squadron beyond the horizon does little to hide the intensity of the Republic of San Magnolia's endless propaganda. Vladilena Milizé continues to operate as Handler One, the commander of yet another dehumanized 86th faction's squadron in the continuous war against the Legion. On the Western Front, Shinei Nouzen and his squad are quarantined in a military base controlled by the Federal Republic of Giad, formerly known as the Giadian Empire. The newly-established government grants the saved Eighty-Six full citizenship and freedom. Housed by the president Ernst Zimmerman himself, the group meets his adoptive daughter and the last Empress, Augusta Frederica Adel-Adler. However, within the calm of this tender society, Shinei and his team feel that their purpose is on the battlefield. Before long, they are once again in the midst of the Legion's onslaught as a part of the Federacy's Nordlicht Squadron, accompanied by Augusta Frederica. But, as history repeats itself, they realize that no matter the side, death and pain on the front lines are the only comfort they know.",
+    "rating": 8.71,
+    "status": "Finished",
+    "genres": "Action, Drama, Sci-Fi",
+    "image": "./pics/86.jpg"
+  },
+  {
+    "name": "Jujustsu Kaisen",
+    "description": "Idly indulging in baseless paranormal activities with the Occult Club, high schooler Yuuji Itadori spends his days at either the clubroom or the hospital, where he visits his bedridden grandfather. However, this leisurely lifestyle soon takes a turn for the strange when he unknowingly encounters a cursed item. Triggering a chain of supernatural occurrences, Yuuji finds himself suddenly thrust into the world of Curses—dreadful beings formed from human malice and negativity—after swallowing the said item, revealed to be a finger belonging to the demon Sukuna Ryoumen, the King of Curses. Yuuji experiences first-hand the threat these Curses pose to society as he discovers his own newfound powers. Introduced to the Tokyo Metropolitan Jujutsu Technical High School, he begins to walk down a path from which he cannot return—the path of a Jujutsu sorcerer.",
+    "rating": 8.66,
+    "status": "Finished",
+    "genres": "Action, Fantasy",
+    "image": "./pics/jjk.jpg"
+  },
+  {
+    "name": "Attack on Titan",
+    "description": "When man-eating Titans first appeared 100 years ago, humans found safety behind massive walls that stopped the giants in their tracks. But the safety they have had for so long is threatened when a colossal Titan smashes through the barriers, causing a flood of the giants into what had been the humans' safe zone. During the carnage that follows, soldier Eren Jaeger sees one of the creatures devour his mother, which leads him to vow that he will kill every Titan. He enlists some friends who survived to help him, and that group is humanity's last hope for avoiding extinction at the hands of the monsters.",
+    "rating": 9.00,
+    "status": "Finished",
+    "genres": "Action, Drama",
+    "image": "./pics/aot.jpg"
+  }
+]
